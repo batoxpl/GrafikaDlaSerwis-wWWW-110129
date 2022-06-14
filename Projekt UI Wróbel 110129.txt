@@ -3,7 +3,7 @@ albo klikając na odpowiednie elementy projektu np. guziki. W prawym górnym rog
 
 -Jest to wersja Demo strony, będąca przeglądarka serwerów dla starych gier.
 
--Działa menu, jeden artykuł (najnowszy), kontakt, oraz  
+-Działa menu, jeden artykuł (najnowszy), kontakt, aktualności oraz  
 podstronę panelu gry Counter Strike (można go wybrać klikając w kafelki)
 
 
