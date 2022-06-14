@@ -1,10 +1,12 @@
 -Projekt stworzony w Adobe XD. Można poruszać się strzałkami będącymi na dolnym pasku 
-albo klikając na odpowiednie elementy projektu np. guziki. W prawym górnym rogu jest opcja pełnego ekranu
+albo klikając na odpowiednie elementy projektu np. guziki. W lewym górnym rogu można wyświetlić wszystkie dostepne podstrony.
+W prawym górnym rogu jest opcja pełnego ekranu
 
 -Jest to wersja Demo strony, będąca przeglądarka serwerów dla starych gier.
 
 -Działa menu, jeden artykuł (najnowszy), kontakt, aktualności oraz  
 podstrona panelu gry Counter Strike (można go wybrać klikając w kafelek)
+Można klikać w inne kafelki żeby zobaczyć animację tła, ale tylko Counter Strike ma swoją podstronę
 
 
 Link do strony:
