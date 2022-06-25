@@ -137,6 +137,7 @@ Link: https://www.instalki.pl/programy/download/Windows/multimedia_inne/SoundSwi
  2. Stopień Konfiguracji: 🔵⚪️⚪️⚪️⚪️
  3.  Konfliktowość:  ⚪️⚪️⚪️⚪️⚪️   
  4. Częstotliwość korzystania: Codziennie
+ 5. Zrzut ekranu programu:
 
 ![enter image description here](https://www.instalki.pl/components/com_djcatalog/images/296ad9288773a266f2ea00b91f6cd33d2016-03-12_21h02_13.png)
 
