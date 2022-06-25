@@ -118,6 +118,7 @@ Link: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
  2. Stopień Konfiguracji: 🔵🔵🔵⚪️⚪️
  3. Konfliktowość:  🔵🔵🔵🔵⚪️ 
  4. Częstotliwość korzystania: Edytuj raz i zapomnij
+ 5. Zrzut Ekranu
 
 ![enter image description here](https://docs.microsoft.com/en-us/sysinternals/downloads/media/autoruns/autoruns_v13.png)
 
