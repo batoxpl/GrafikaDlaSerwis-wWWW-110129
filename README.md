@@ -120,6 +120,7 @@ Link: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
  4. Częstotliwość korzystania: Edytuj raz i zapomnij
 
 ![enter image description here](https://docs.microsoft.com/en-us/sysinternals/downloads/media/autoruns/autoruns_v13.png)
+
 Oryginalny program Microsoftu do zarządzania procesami w komputerze. Pozwala ukrywać oraz wyłączać zbędne procesy, zdarzenia itd. Interfejs bombarduje nas wieloma elementami i listami ale można na spokojnie to sobie ogarnąć. 
 
 Lepiej tego nie opiszę niż sam Microsoft
@@ -137,6 +138,7 @@ Link: https://www.instalki.pl/programy/download/Windows/multimedia_inne/SoundSwi
  3.  Konfliktowość:  ⚪️⚪️⚪️⚪️⚪️   
  4. Częstotliwość korzystania: Codziennie
 ![enter image description here](https://www.instalki.pl/components/com_djcatalog/images/296ad9288773a266f2ea00b91f6cd33d2016-03-12_21h02_13.png)
+
 Program który pozwala w łatwy sposób zmienić źródło nadawania dźwięku (USB, MiniJack itd.)
 
 ## Podsumowanie
