@@ -63,7 +63,7 @@ Nie tylko musimy ratować się cudzymi listami - możemy tworzyć własne ale tu
 
 
 
-## CcLeaner 🛑
+## CCLeaner 🛑
 
 Link: https://www.ccleaner.com/pl-pl/ccleaner/download
 
