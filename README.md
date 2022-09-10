@@ -82,7 +82,7 @@ Ja go wykorzystuję również do usuwania preinstalowanych aplikacji Windowsa 10
 
 **Uważać na proces instalacji, bo może zainstalować zbędny syf. Lubi się często też przypominać w powiadomieniach i proponuje zniżki na wersję PRO**
 
-Edit z 10.09.22 - Ostatnio się dowiedziałem o rozszerzeniu Winapp2 który zwiększa umiejętności CCleaner'a jeśli chodzi o usuwanie śmieci. Jest to zbiór lokalizacji w Windowsie, które również zawierają zbędne pliki cache, temp itd. Instalacja polega na wrzuceniu pliki Winapp2.ini to głównego folderu z programem a następnie przeklikanie interesujących checkboxów - choć tutaj trzeba być ostrożny. Dlatego dorzucam extra 🔵 do stopnia konfiguracji.
+Edit z 10.09.22 - Ostatnio się dowiedziałem o rozszerzeniu Winapp2 który zwiększa umiejętności CCleaner'a jeśli chodzi o usuwanie śmieci. Jest to zbiór lokalizacji w Windowsie, które również zawierają zbędne pliki cache, temp itd. Instalacja polega na wrzuceniu pliku Winapp2.ini do głównego folderu z programem a następnie przeklikanie interesujących checkboxów - choć tutaj trzeba być ostrożny bo nie są to oficjalne ścieżki folderów. Dlatego dorzucam extra 🔵 do stopnia konfiguracji.
 
 ## iBlock List Torrent  
 
